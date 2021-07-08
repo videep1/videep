@@ -1,2 +1,2 @@
 # videep
-hello ,this is my github account
+hello ,this is my resume
